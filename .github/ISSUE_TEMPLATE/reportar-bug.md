@@ -10,7 +10,7 @@ assignees: Victor-Pancracio
 **Descreva o Bug**
 Uma descrição clara e concisa do que está acontecendo.
 
-**Para Reproduzir*
+**Para Reproduzir**
 Passos para reproduzir o comportamento:
 1. Vá para '...'
 2. Clique em '....'
